@@ -6,6 +6,7 @@ print("5. Go To Bed")
 print("0. Exit")
 
 question = input("what is ur num?")
-    if question is 1:
+    if question is 1: hi
+        
 
 
