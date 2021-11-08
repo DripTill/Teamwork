@@ -2,9 +2,12 @@
 import random
 
 num = random.randrange(1, 11)
-print (num)
+
+'''
+print (num) # Shows the number to guess 
 
 # take off when turn in
+'''
 
 guess = int(input("please guess a number 1 and 10 ="))
 
